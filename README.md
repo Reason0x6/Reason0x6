@@ -1,5 +1,3 @@
-# Gaustin Biscit  
-
 ## 🚀 About Me  
 Software Engineer with experience in TypeScript, Angular, .NET, and Java. Passionate about building scalable, maintainable software solutions and optimizing development workflows with Azure DevOps and CI/CD automation.  
 
